@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi carrito | BellaZona</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="barra">
+            <a href="index.html" class="logo"><span>B</span> BellaZona</a>
+            <nav>
+                <a href="index.html">Catalogo</a>
+                <a href="carrito.html" class="activo">Carrito <span class="globo" id="contador">0</span></a>
+                <a href="admin.html">Administrador</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+
+        <h2 class="titulo">Mi carrito</h2>
+        <p class="texto-gris">Revisa los productos y completa tus datos para terminar la compra.</p>
+
+        <div class="dos-columnas" style="margin-top: 26px;">
+
+            <div>
+                <div id="lista-carrito"></div>
+                <div class="total" id="caja-total"></div>
+            </div>
+
+            <div class="caja" style="margin-top: 0;">
+                <h3 style="margin-top: 0;">Datos de envio</h3>
+
+                <form class="formulario" id="form-compra">
+                    <div>
+                        <label for="cliente">Nombre completo</label>
+                        <input type="text" id="cliente" style="width: 100%;" required>
+                    </div>
+                    <div>
+                        <label for="correo">Correo</label>
+                        <input type="email" id="correo" style="width: 100%;" required>
+                    </div>
+                    <div>
+                        <label for="direccion">Direccion</label>
+                        <input type="text" id="direccion" style="width: 100%;" required>
+                    </div>
+
+                    <button type="submit" class="boton ancho">Confirmar compra</button>
+                </form>
+
+                <p class="texto-gris" id="mensaje-compra" style="margin-top: 12px;"></p>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>BellaZona - Proyecto formativo SENA</footer>
+
+    <script src="js/comun.js"></script>
+    <script src="js/carrito.js"></script>
+    <script src="js/asesor.js"></script>
+
+</body>
+
+</html>

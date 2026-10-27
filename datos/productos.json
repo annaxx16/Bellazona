@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "nombre": "Polvo Suelto Bonita Ani-k Carlota",
+    "categoria": "Rostro",
+    "precio": 38000,
+    "stock": 12,
+    "descripcion": "Polvo suelto Ani-k tono Carlota para sellar la base y quitar el brillo. Textura fina que deja la piel mate todo el dia sin resecar.",
+    "imagen": "img/anik-polvo-suelto-carlota.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Polvo Suelto Bonita Ani-k Scarlet",
+    "categoria": "Rostro",
+    "precio": 38000,
+    "stock": 10,
+    "descripcion": "Polvo suelto Ani-k tono Scarlet, ideal para pieles medias. Fija el maquillaje, controla la grasa y da un acabado natural.",
+    "imagen": "img/anik-polvo-suelto-scarlet.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Rubor Mineralizado Ani-k",
+    "categoria": "Rostro",
+    "precio": 20000,
+    "stock": 15,
+    "descripcion": "Rubor mineralizado Ani-k de alta pigmentacion. Se difumina facil y le da color saludable a las mejillas sin verse cargado.",
+    "imagen": "img/anik-rubor-mineralizado.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Rubor Mousse Ani-k Atenea",
+    "categoria": "Rostro",
+    "precio": 44000,
+    "stock": 7,
+    "descripcion": "Rubor en mousse Ani-k linea Atenea, textura cremosa que se funde con la piel. Acabado fresco y jugoso que dura varias horas.",
+    "imagen": "img/anik-rubor-mousse-atenea.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Iluminador Suelto Ani-k",
+    "categoria": "Rostro",
+    "precio": 20000,
+    "stock": 14,
+    "descripcion": "Iluminador suelto Ani-k de brillo intenso y acabado humedo. Resalta pomulos, nariz y arco de cupido con un toque luminoso.",
+    "imagen": "img/anik-iluminador-suelto.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Corrector Ani-k Tono 01",
+    "categoria": "Rostro",
+    "precio": 19000,
+    "stock": 16,
+    "descripcion": "Corrector Ani-k tono 01 de cobertura alta. Disimula ojeras e imperfecciones sin marcar las lineas de expresion.",
+    "imagen": "img/anik-corrector.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Pestanina Ani-k Flash Lash",
+    "categoria": "Ojos y labios",
+    "precio": 25000,
+    "stock": 18,
+    "descripcion": "Pestanina Ani-k Flash Lash para volumen y separacion. El cepillo levanta la pestana desde la raiz y no deja grumos.",
+    "imagen": "img/anik-pestanina-flash-lash.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Pestanina Ani-k Eternal Lash",
+    "categoria": "Ojos y labios",
+    "precio": 25000,
+    "stock": 13,
+    "descripcion": "Pestanina Ani-k Eternal Lash de larga duracion. Alarga y define la mirada, resiste el dia sin correrse.",
+    "imagen": "img/anik-pestanina-eternal-lash.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Delineador Radiante Ani-k",
+    "categoria": "Ojos y labios",
+    "precio": 17000,
+    "stock": 20,
+    "descripcion": "Delineador liquido Ani-k de punta fina y color intenso. Facil de aplicar para lograr una linea precisa o un delineado de gato.",
+    "imagen": "img/anik-delineador-radiante.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Lapiz Doble para Cejas Ani-k",
+    "categoria": "Ojos y labios",
+    "precio": 13000,
+    "stock": 17,
+    "descripcion": "Lapiz doble para cejas Ani-k con mina delineadora de un lado y cepillo del otro. Rellena y peina las cejas de forma natural.",
+    "imagen": "img/anik-lapiz-cejas.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Kit de Cejas Ani-k Makeup",
+    "categoria": "Ojos y labios",
+    "precio": 20000,
+    "stock": 9,
+    "descripcion": "Kit de cejas Ani-k con sombras y cera para fijar. Trae todo para dar forma, rellenar y dejar las cejas definidas todo el dia.",
+    "imagen": "img/anik-kit-cejas.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Gloss Bonita Ani-k",
+    "categoria": "Ojos y labios",
+    "precio": 20000,
+    "stock": 22,
+    "descripcion": "Gloss Bonita de Ani-k con brillo espejo y textura no pegajosa. Hidrata los labios y da efecto de labios mas llenos.",
+    "imagen": "img/anik-gloss-bonita.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Brocha para Polvo Ani-k AK1",
+    "categoria": "Brochas",
+    "precio": 18000,
+    "stock": 11,
+    "descripcion": "Brocha Ani-k AK1 de cerdas densas y suaves para aplicar polvo. Difumina parejo y deja un acabado sin brillo.",
+    "imagen": "img/anik-brocha-polvo-ak1.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Brocha Iluminadora Ani-k AK5",
+    "categoria": "Brochas",
+    "precio": 13000,
+    "stock": 13,
+    "descripcion": "Brocha Ani-k AK5 de punta angulada para iluminador y rubor. Recoge el producto justo y lo aplica de forma precisa.",
+    "imagen": "img/anik-brocha-iluminadora-ak5.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Pincel para Sombras Ani-k AK15",
+    "categoria": "Brochas",
+    "precio": 8000,
+    "stock": 19,
+    "descripcion": "Pincel Ani-k AK15 lengua de gato para aplicar sombra. Deposita color de forma pareja y llega bien a la esquina del ojo.",
+    "imagen": "img/anik-pincel-sombras-ak15.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Pincel para Difuminar Ani-k AK8",
+    "categoria": "Brochas",
+    "precio": 9000,
+    "stock": 15,
+    "descripcion": "Pincel Ani-k AK8 de cerdas esponjadas para difuminar la sombra. Suaviza los bordes y funde los tonos sin esfuerzo.",
+    "imagen": "img/anik-pincel-difuminar-ak8.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Pincel para Difuminar Ani-k AK10",
+    "categoria": "Brochas",
+    "precio": 7000,
+    "stock": 21,
+    "descripcion": "Pincel Ani-k AK10 pequeno para difuminar en la cuenca del ojo. Perfecto para trabajar detalles y dar profundidad a la mirada.",
+    "imagen": "img/anik-pincel-difuminar-ak10.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Gloss Plumping Bon Shik Rosa",
+    "categoria": "Ojos y labios",
+    "precio": 22000,
+    "stock": 15,
+    "descripcion": "Brillo labial Bon Shik Plumping en tono rosa que da volumen y brillo a los labios. Formula hidratante con acabado jugoso y nada pegajoso.",
+    "imagen": "img/bonshik-gloss-rosa.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Gloss Plumping Bon Shik Rojo",
+    "categoria": "Ojos y labios",
+    "precio": 22000,
+    "stock": 12,
+    "descripcion": "Brillo labial Bon Shik Plumping en tono rojo intenso con micro brillos. Aporta efecto de labios mas llenos y un color vibrante que dura.",
+    "imagen": "img/bonshik-gloss-rojo.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Corrector en Crema Pretty Woman",
+    "categoria": "Rostro",
+    "precio": 24000,
+    "stock": 12,
+    "descripcion": "Corrector en crema Pretty Woman de cobertura media a alta. Disimula ojeras e imperfecciones y se difumina facil sin resecar la piel.",
+    "imagen": "img/pretty-woman-corrector.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Esponja de Maquillaje Just For You",
+    "categoria": "Brochas",
+    "precio": 12000,
+    "stock": 20,
+    "descripcion": "Esponja de maquillaje Just For You con forma de gota para base y corrector. Humeda se vuelve mas suave y deja un acabado parejo sin marcar.",
+    "imagen": "img/just-for-you-esponja.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Gloss Transparente Lip It",
+    "categoria": "Ojos y labios",
+    "precio": 18000,
+    "stock": 18,
+    "descripcion": "Brillo labial transparente Lip It que da luz y volumen a cualquier labial. Textura ligera no pegajosa que se usa sola o encima del labial.",
+    "imagen": "img/lip-it-gloss-transparente.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Mascara de Pestanas PROSA 4 en 1",
+    "categoria": "Ojos y labios",
+    "precio": 26000,
+    "stock": 14,
+    "descripcion": "Mascara de pestanas PROSA 4 en 1 con efecto alargador y formula a prueba de agua. Separa, define y da volumen sin formar grumos.",
+    "imagen": "img/prosa-mascara-4en1.jpg"
+  }
+]

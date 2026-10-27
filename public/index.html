@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BellaZona | Maquillaje Ani-k</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="barra">
+            <a href="index.html" class="logo"><span>B</span> BellaZona</a>
+            <nav>
+                <a href="index.html" class="activo">Catalogo</a>
+                <a href="carrito.html">Carrito <span class="globo" id="contador">0</span></a>
+                <a href="admin.html">Administrador</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+
+        <section class="banner">
+            <h1>Maquillaje Ani-k para todos los dias</h1>
+            <p>
+                Productos Ani-k para rostro, ojos, labios y tus brochas. Mira el producto que
+                te guste, agregalo al carrito y listo. Si tienes dudas puedes preguntarle al
+                asesor virtual que esta abajo a la derecha.
+            </p>
+        </section>
+
+        <div class="filtros">
+            <input type="text" id="buscador" placeholder="Buscar producto...">
+            <button class="chip activo" data-categoria="todas">Todas</button>
+            <button class="chip" data-categoria="Rostro">Rostro</button>
+            <button class="chip" data-categoria="Ojos y labios">Ojos y labios</button>
+            <button class="chip" data-categoria="Brochas">Brochas</button>
+        </div>
+
+        <p class="texto-gris" id="cantidad-resultados">Cargando productos...</p>
+
+        <div class="grilla" id="grilla" style="margin-top: 16px;"></div>
+
+    </main>
+
+    <footer>BellaZona - Proyecto formativo SENA</footer>
+
+    <script src="js/comun.js"></script>
+    <script src="js/catalogo.js"></script>
+    <script src="js/asesor.js"></script>
+
+</body>
+
+</html>
